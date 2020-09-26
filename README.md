@@ -1,8 +1,5 @@
 # IDM Trial Reset 2020
 
-### Note : 
-Does not work perfectly anymore. I switched to a proper crack. Link if intrested : [🎭](https://1337x.to/torrent/4574740/Internet-Download-Manager-IDM-6-38-Build-2-Repack-B4tman/).
-
 ### Reset IDM trial without any external softwares (working in 2020).
 I found this solution in [J2TEAM/idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset/)'s Issues section [here](https://github.com/J2TEAM/idm-trial-reset/issues/10#issuecomment-616135590). Making this repository for wider reach. 
 ### Steps to fix IDM trial :
@@ -19,3 +16,8 @@ I found this solution in [J2TEAM/idm-trial-reset](https://github.com/J2TEAM/idm-
 2. Edit the ``` reg ``` file in this repo in Notepad and add your key.
 3. Run the ``` reg ``` file and it will automatically delete the IDM entry.
 4. Enjoy 
+
+
+#### Note : 
+Does not work perfectly anymore. I switched to a proper crack. 
+Link if intrested : [🎭](https://1337x.to/torrent/4574740/Internet-Download-Manager-IDM-6-38-Build-2-Repack-B4tman/).
