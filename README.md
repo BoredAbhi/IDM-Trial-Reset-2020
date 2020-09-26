@@ -18,6 +18,6 @@ I found this solution in [J2TEAM/idm-trial-reset](https://github.com/J2TEAM/idm-
 4. Enjoy 
 
 
-#### Note : 
+**Note :** 
 Does not work perfectly anymore. I switched to a proper crack. 
 Link if intrested : [🎭](https://1337x.to/torrent/4574740/Internet-Download-Manager-IDM-6-38-Build-2-Repack-B4tman/).
